@@ -1,6 +1,6 @@
 #  Informações Sobre Git  / GitHUB :desktop_computer:
 
-Link para dowload do Git: https://git-scm.com/downloads .
+Link para dowload  Git: https://git-scm.com/downloads .
 
 OBS: O GIT BASH é um terminal extendido para otimizar o uso do GIT. 
 
@@ -16,7 +16,7 @@ OBS: O GIT BASH é um terminal extendido para otimizar o uso do GIT.
 
 - BLOBS (bolhas)
 - TREES (arvores)
-- COMMITS
+- (COMMITS)
 
 ### Função:
 
